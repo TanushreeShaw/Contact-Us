@@ -14,7 +14,6 @@ function App() {
       <ContainedButtons/>
       <br/>
     </div>
-    
 
   );
 }
