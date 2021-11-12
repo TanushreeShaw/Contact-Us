@@ -20,7 +20,8 @@ const FixedContainer = () => {
         
       </Container>
     </React.Fragment>
-  );
+  )
+        ;
 }
 
 export default FixedContainer;
